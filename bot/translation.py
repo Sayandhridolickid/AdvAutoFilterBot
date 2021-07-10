@@ -4,14 +4,14 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>I'm an Adv Filter Bot.. 😊
+    START_TEXT = """<b>Hey {}, I'm °°𝙽𝚎𝚐𝚊𝚗​§.!!</b>
+<b>You can call me an Adv Filter Bot.. 😊
 
 So, You can't add me to your group.. 😉
 
 For More Details Click Help Button Below..
 @Movievibezz
-</i>"""    
+</b>"""    
     
     HELP_TEXT = """
 <b><i><u>For Queries!?</u></i></b>
@@ -21,7 +21,7 @@ For More Details Click Help Button Below..
     
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code>°°𝙽𝚎𝚐𝚊𝚗​§</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/Ridolickid">Ꮗ Ꭿ ⅅ ℰ Ꮗ ℐ ℒ Ѕ Ꮎ ℕ</a></i></b>
 
