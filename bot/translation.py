@@ -4,8 +4,8 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}, I'm °°𝙽𝚎𝚐𝚊𝚗​§.!!</b>
-<b>You can call me an Adv Filter Bot.. 😊
+    START_TEXT = """<b>Hey {}!!</b>
+<b><i><u>I am °°𝙽𝚎𝚐𝚊𝚗​§... 🤨<u><i><b>
 
 So, You can't add me to your group.. 😉
 
