@@ -30,7 +30,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = "@Movievibezz" ,
+                caption = "<b>@Movievibezz</b>" ,
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎥Our Group🎥', url="https://t.me/Movievibezz"
+                                    'Our Group', url="https://t.me/Movievibezz"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Dev', url="https://t.me/Ridolickid"
+                                    'Dev', url="https://t.me/Movievibezz"
                                 )
                         ]
                     ]
