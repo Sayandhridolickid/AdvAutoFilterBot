@@ -204,7 +204,7 @@ async def auto_filter(bot, update):
             await bot.send_photo(
                 chat_id=update.chat.id,
                 photo="https://telegra.ph/file/31ddbcdd6176cf8ca0a94.jpg", 
-                caption=f"We Found <code><b><i>{(len_results)}</i></b></code> Result For Your Query: <code>
+                caption=f"Found {(len_results)} Results For Your Query: <code>{query}</code>Requested By <b><code>{update.from_user.first_name}</code>",
                 reply_markup=reply_markup,
                 parse_mode="html",
                 reply_to_mesaage_id=update.message_id
