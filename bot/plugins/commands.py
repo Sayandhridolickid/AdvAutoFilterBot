@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Our Group', url="https://t.me/Movievibezz"
+                                    '♻️Our Group♻️', url="https://t.me/Movievibezz"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Dev', url="https://t.me/Movievibezz"
+                                    '♻️Our Group♻️', url="https://t.me/Movievibezz"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👶Dev👶', url='https://t.me/Ridolickid'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Sayandhridolickid/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('👶Dev', url='https://t.me/Ridolickid'),
+        InlineKeyboardButton('♻️Our Group♻️', url ='https://Movievibezz')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/Movievibezz')
+        InlineKeyboardButton('♻️Our Channel♻️', url='https://t.me/Mv_Main')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
