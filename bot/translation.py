@@ -29,6 +29,4 @@ For More Details Click Help Button Below..
 <b>➥ Language</b> : 🔐
 
 <b>➥ Library</b> : <i>🔐</i>
-
-<b>➥ Source Code</b> : <i><a href="https://github.com/Sayandhridolickid/Adv-Auto-Filter-Bot">Click Me</a></i>
 """
